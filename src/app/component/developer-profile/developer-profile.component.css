@@ -1,0 +1,28 @@
+.button-container{
+    margin-inline: 5px;
+}
+
+.input-spacer{
+    margin-top: 15px;
+}
+
+.btn-add-developer{
+    float: right;
+    margin-bottom: 15px;
+}
+
+td, th{
+    text-align: center !important;
+}
+
+.mat-column-actions{
+    text-align: right !important;
+}
+
+.mat-row:hover .mat-cell {
+    background-color: greenyellow;
+}
+
+.mat-dialog-actions {
+    float: right;
+}
